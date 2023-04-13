@@ -30,6 +30,7 @@
       <li>CSS3</li>
       <li>JavaScript (ES6+)</li>
       <li>ReactJS</li>
+    <li>Chakraui</li>
     </ul>
 
 
