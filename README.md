@@ -22,7 +22,15 @@
 <pre><code>REACT_APP_API_KEY=your_api_key_here</code></pre>
 <h2>Contributing</h2>
 <p>If you'd like to contribute to this app, feel free to submit a pull request. Make sure to follow the existing code style and include tests for any new features or bug fixes.</p>
-<h2>License</h2>
+
+<h1>Tech Stack</h1>
+    <p>This project uses the following technologies:</p>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript (ES6+)</li>
+      <li>ReactJS</li>
+    </ul>
 
 
 
