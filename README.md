@@ -1,3 +1,19 @@
+   <h3>Installation</h3>
+To install this app, follow these steps:
+
+Clone the repository to your local machine.
+Navigate to the root directory of the project.
+Run npm install to install the necessary dependencies.
+Usage
+To use this app, follow these steps:
+
+Run npm start to start the app.
+Open a web browser and navigate to http://localhost:3000.
+Enter a location in the input field and click the "Get Weather" button.
+The current weather for the location you entered will be displayed.
+
+
+
 
 ![firstform-page](https://user-images.githubusercontent.com/97114184/231898136-af16dce1-5ff6-4555-9c3b-0124cb57376a.png)
 
