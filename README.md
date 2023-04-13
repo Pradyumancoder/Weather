@@ -1,28 +1,56 @@
-  <h1>Weather App</h1>
-<p><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></p>
-<p>This is a simple weather app that allows you to get the current weather for a specific location.</p>
-<h2>Installation</h2>
-<p>To install this app, follow these steps:</p>
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>Weather App</title>
+</head>
+<body>
+less
+Copy code
+<h1>Weather App</h1>
+
+<p><img src="demo.gif" alt="Weather App demo"></p>
+
+<h2>Overview</h2>
+
+<p>The Weather App is a simple web application that allows users to get the current weather for a specific location. It is built using React and the OpenWeatherMap API.</p>
+
+<h2>Features</h2>
+
+<ul>
+	<li>Get the current weather for a specific location</li>
+	<li>Displays the temperature, weather condition, and location</li>
+	<li>Responsive design that works on all devices</li>
+</ul>
+
+<h2>Getting Started</h2>
+
+<p>To get started, follow these steps:</p>
+
 <ol>
-  <li>Clone the repository to your local machine.</li>
-  <li>Navigate to the root directory of the project.</li>
-  <li>Run <code>npm install</code> to install the necessary dependencies.</li>
+	<li>Clone the repository to your local machine</li>
+	<li>Navigate to the root directory of the project</li>
+	<li>Run <code>npm install</code> to install the necessary dependencies</li>
+	<li>Run <code>npm start</code> to start the app</li>
+	<li>Open a web browser and navigate to <code>http://localhost:3000</code></li>
+	<li>Enter a location in the input field and click the "Get Weather" button</li>
+	<li>The current weather for the location you entered will be displayed</li>
 </ol>
-<h2>Usage</h2>
-<p>To use this app, follow these steps:</p>
-<ol>
-  <li>Run <code>npm start</code> to start the app.</li>
-  <li>Open a web browser and navigate to <code>http://localhost:3000</code>.</li>
-  <li>Enter a location in the input field and click the "Get Weather" button.</li>
-  <li>The current weather for the location you entered will be displayed.</li>
-</ol>
-<h2>API</h2>
+
+<h2>API Key</h2>
+
 <p>This app uses the OpenWeatherMap API to get weather data. To use the app, you'll need to sign up for an API key on the OpenWeatherMap website and add it to a <code>.env</code> file in the root directory of the project:</p>
+
 <pre><code>REACT_APP_API_KEY=your_api_key_here</code></pre>
+
 <h2>Contributing</h2>
+
 <p>If you'd like to contribute to this app, feel free to submit a pull request. Make sure to follow the existing code style and include tests for any new features or bug fixes.</p>
+
 <h2>License</h2>
+
 <p>This app is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
+</body>
+</html>
 
 
 
